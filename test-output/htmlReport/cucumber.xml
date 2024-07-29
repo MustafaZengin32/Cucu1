@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="29.79" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Paralel Test" name="Paralel Test 01" time="28.52">
+<system-out><![CDATA[
+Given "pazarama" sitesine gidilir...........................................passed
+When search box ina "jenga" yazılır.........................................passed
+Then goruntulenen sonuclarda "jenga" yazdigi dogrulanir.....................passed
+]]></system-out>
+</testcase>
+</testsuite>
